@@ -13,16 +13,14 @@ The color sensing memory game is a game in which the game will flash colors at t
   
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mRS1ZB0bbeU?si=VcDlFa-7eDzorLIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone, I added an LCD screen that displays the high score of the time that the game is on that resets each time you unplug, and that also displays your current score under that. I also added a D F Mini Player and a speaker to state when a new round is starting, celebration when you get a new high score, and a sad music for when the game is over. I had a lot of challenges in adding my modifications, mainly my speaker code. It took me the most time to figure this out as my speaker was origionaly buzzing the whole time and I had to work hard with many people until I discovered what was wrong. I am very happy with how my project has turned out with all of my modifications and I hope to keep on finding things that I can use to make my project better and better.
 
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIJasSJQAQE?si=c5N-fjxDLv9g6Ikq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my second milestone, I have worked on the software side of my project. I used C++ to code the logic behind the game into it. I added the code behind the game flashing the lights first, and then the buttons flashing them following them. I also added the game to stop and the LEDs to flash when each round ends. I then added the code for the display to add the score at the end. Some challenges that I faced including figuring out how to get the display to flash the numbers and get the LEDs to turn off after they flash at the end of a round. Next I am going to be working on my modifications including adding an LCD screen to show your current score and the high score and a d f mini player with a speaker to play sounds and music throughout it.
 
@@ -365,9 +363,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Starter 1 | Base of the project | $44.88 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1?dib=eyJ2IjoiMSJ9._L3JiWgIo_Asrnpq9JBCAvlFJKU-cwUzPEOX6Xf2L2ocJ5VwjOWbJ7InSxeX25zyxpBZeI01sPn8IXm6km2PRBq2fQPugHT_ehDjSpnudGaxnVApmlAN4PU9YooLBBsLg7XqS0qh296_sHdxy7YBotvHfNEnD_3EBUamknDg-kBNTWfYhXJPBygMBY4I29b_IWZBqoqM9pIXMIkWrTluA5y6SZlIzqvk_8UaoxsYUU0.WVJCYuLtjZfC_Pxjs5ltQ35CxXinbD40L-RgbPLhU-w&dib_tag=se&keywords=arduino%2Bstarter%2Bkit&qid=1779928287&sr=8-1&th=1)"> Link </a> |
+| DMM | Saftey | $9.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B0CXM242J1?ref=fed_asin_title&th=1)"> Link </a> |
+| 12C LCD 1602 Display | High and Current Scores | $9.99 | <a href="(https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O?th=1)"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
