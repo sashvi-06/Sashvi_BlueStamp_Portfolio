@@ -6,7 +6,7 @@ The color sensing memory game is a game in which the game will flash colors at t
 | Sashvi M | Cerritos High School | Electrical Engineering | Incoming Junior
 
 
-<img width="3746" height="2799" alt="IMG_3312" src="https://github.com/user-attachments/assets/7e4fa072-2b05-433f-ad71-a9d774192837" />
+<img width="560" height="315" alt="IMG_3312" src="https://github.com/user-attachments/assets/7e4fa072-2b05-433f-ad71-a9d774192837" />
   
 # Final Milestone
 
