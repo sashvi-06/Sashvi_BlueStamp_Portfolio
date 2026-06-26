@@ -6,10 +6,7 @@ The color sensing memory game is a game in which the game will flash colors at t
 | Sashvi M | Cerritos High School | Electrical Engineering | Incoming Junior
 
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-
-![Headstone Image](logo.svg)
+<img width="3746" height="2799" alt="IMG_3312" src="https://github.com/user-attachments/assets/7e4fa072-2b05-433f-ad71-a9d774192837" />
   
 # Final Milestone
 
