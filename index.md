@@ -32,7 +32,7 @@ For my second milestone, I have worked on the software side of my project. I use
 For my first milestone, I finished the hardware for my game. In my game there are 4 LED bulbs, 4 buttons, a 7-segment dispay, and a decoder that are all used in the game. The objective of the game is to copy the lights that the game gives off in order. So far I have connected all of the wires, lights, buttons, resistors, the dispay, and the decoder. Some challenges that I have faced throughout this process are that I origionally started my project too far to the right and then had to move everything to the left to make it work. Another challenge was that I mixed up the positive and negitive sides of the LEDs and it took me a while to figure that out. My plan is to finish my initial coding for my second milestone and to have my third milestone be modifications including adding a high score board, sound, and a way to automatacly move from one game to the next.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<img width="609" height="629" alt="Screenshot 2026-06-26 at 9 48 41 AM" src="https://github.com/user-attachments/assets/7ee69d3a-cd77-4a51-bfdb-afc9ed3646b8" />
 
 # Code
 
@@ -358,18 +358,13 @@ void loop() {
 ```
 # Bill of Materials
 
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs.
-
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Starter 1 | Base of the project | $44.88 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1?dib=eyJ2IjoiMSJ9._L3JiWgIo_Asrnpq9JBCAvlFJKU-cwUzPEOX6Xf2L2ocJ5VwjOWbJ7InSxeX25zyxpBZeI01sPn8IXm6km2PRBq2fQPugHT_ehDjSpnudGaxnVApmlAN4PU9YooLBBsLg7XqS0qh296_sHdxy7YBotvHfNEnD_3EBUamknDg-kBNTWfYhXJPBygMBY4I29b_IWZBqoqM9pIXMIkWrTluA5y6SZlIzqvk_8UaoxsYUU0.WVJCYuLtjZfC_Pxjs5ltQ35CxXinbD40L-RgbPLhU-w&dib_tag=se&keywords=arduino%2Bstarter%2Bkit&qid=1779928287&sr=8-1&th=1)"> Link </a> |
 | DMM | Saftey | $9.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B0CXM242J1?ref=fed_asin_title&th=1)"> Link </a> |
 | 12C LCD 1602 Display | High and Current Scores | $9.99 | <a href="(https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O?th=1)"> Link </a> |
-
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
+| 8ohm Speaker | give out noise | $9.99| <a href="[link](https://www.amazon.com/DWEII-Loundspeaker-Compatible-Motherboard-Electronic/dp/B0CX1JC6NM/ref=sr_1_1_pp?crid=GV8U1RO8ACMR&dib=eyJ2IjoiMSJ9.xLQ3cVWcOi3Yc2kulD9z1Ff2mu094D4FCYaz1SI8xkbosrTWdxR4zx8hADLPdATW3jXaOvSv11xMVeVfjV2lg-QgTrePe8CxRqV3eqMAvx0fnqM0U4Qa6xzrZn2f7MgYXSghqKVCqavJdGirrSe1gANyOWqll6RAyR2Y-EBhKQXXwe5scUM0Y-KWmCAI_0Vf_srXhKVYiPXURxPxRtAdyQ3tOETK0jrNPehKql_DFBpQzBRDOlWEr9ZKdCmCbWYlQFwNj9QZxJoskinFclEP923xc_8w97w8CiD-dQpLYHI.G2-g8XDTSSMlv_rmIPEjl-rUDjkzvJQ08qrhJRHfn54&dib_tag=se&keywords=speaker%2Barduino&qid=1781213803&s=electronics&sprefix=speaker%2Barduino%2Celectronics%2C214&sr=1-1&th=1)"> Link </a> |
+| SD Card | store different sounds | $4.98| <a href="[link](https://www.amazon.com/Class10-Memory-Extreme-Compatibility-Meomory/dp/B0GKPVR4RH/ref=sr_1_12?dib=eyJ2IjoiMSJ9.WpvOswVDewFqiI3veGUzsCymqT6rPhaS5vyfN3W4iImKPISiq73v_Whty0RBZOYLQzcT8t4o8MgG6LZdzc0W9DOIwoBzuyStqt0JiP94G1FmqLRupi7xnAJ4g_AMLyvThfCWFcJodole7awWuTGJxGKyhvrDP8JzgDs_RWMj0zwBEkwpSbvEqpeb8-N74NdZ8B-YdmSp1yLPaohe5baFuQa7V5RSlp4e1R6A0cUJ_K8.603luMMc6GoqCpn7KrAkpRU30Il_TBWAN7q2Jkgcxaw&dib_tag=se&keywords=micro+sd+card&qid=1781205599&sr=8-12)"> Link </a> |
+| DFP Player | transfer SD card noise to speaker | $9.90| <a href="[link](https://www.amazon.com/DFPlayer-A-Mini-MP3-Player/dp/B089D5NLW1/ref=sr_1_2?crid=2TFMSNV3V6X4N&dib=eyJ2IjoiMSJ9.YrXsgIIjUaSsAEXykz_XhedAiNLuph_OWmxQmAavcckeBOFIILf0piK1lQqo5NxzajN6ZStSOjzJboPlpjoUf_kIRnJjQde-WrCF5xGtuzN_h6Vk3qwf0gPz50b3ClmYutnkj3rVJj84S0BNAllkj77MPYEoenGCggxFdwCZynAEKI6Xv-G6-VPkppnA7AVo_TFeSb4Brkx4LgydYz-Bx8gVlbt7OkCHi7QBQMqfzFk.8VD_uGGjesENqjp_unTxGKDrtmXUpVXbU7zOdh2OHbo&dib_tag=se&keywords=df+player+with+arduino&qid=1781205043&sprefix=df+player+with+arduino%2Caps%2C169&sr=8-2)"> Link </a> |
+| Converter SD to USBC | download sound on SD card | $8.98| <a href="[link](https://www.amazon.com/Anker-Reader-Memory-RS-MMC-Micro/dp/B07NW8RPYN/ref=sr_1_3?crid=1SH32TWW75I8Z&dib=eyJ2IjoiMSJ9.1KsRUD7kzbYoYbE95yB_XkPKwqCZWOzBCvf-R03qoQzXzOrVd73sK7Y2f5FFc_zgsrGP6jtJyPyEctpFxCd0NvdwJA0iUhm7Wze3Rvq3hy-mNmG4k68tykGtuw6jlo07As3BOZTWtah3FHr_UxKK5WiPysOYDjU7YO7btTQ0RRGQu2AT9tJejK-rZEzUOJgZMeQJf-sbmQ8d2jftk2SpCPuCD1V7tO0JDQHeLJnT6NwTmDTyDws3vwXYTgAZjv75cTKhVJSYccmUBzgjpCHh1b68Fd7nYOr4x5JeIi9J-pM.VVFVwJvrGLgH7asEKfH2N7aigdTkuFXKtwmjllfd2yA&dib_tag=se&keywords=1%2BMarceloant%2BMemory%2BCard%2BClass%2B10%2BTF%2BCard%2Busbc%2Badapter&nsdOptOutParam=true&qid=1781209751&s=electronics&sprefix=1%2Bmarceloant%2Bmemory%2Bcard%2Bclass%2B10%2Btf%2Bcard%2Busbc%2Badapte%2Celectronics%2C145&sr=1-3&th=1)"> Link </a> |
+| Converter USB to USBC | connect project to computer | $6.59| <a href="[link](http://amazon.com/dp/B07CVX3516?ref=nb_sb_ss_w_as-reorder_k3_1_3&amp=&crid=1IXI3GEBWAGFU&amp=&sprefix=usb)"> Link </a> |
